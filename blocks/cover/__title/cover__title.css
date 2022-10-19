@@ -28,12 +28,12 @@
     max-width: 607px;
     margin-bottom: 20px;
     padding-top: 33px;
-    font-size: 60px;
+    font-size: 45px;
     line-height: 109%;
   }
 }
 
-@media (max-width: 425px) {
+@media (max-width: 440px) {
   .cover__title {
     max-width: 385px;
     margin-bottom: 20px;

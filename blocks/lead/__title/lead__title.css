@@ -8,7 +8,7 @@
   text-align: center;
 }
 
-@media (max-width: 675px) {
+@media (max-width: 705px) {
   .lead__title {
     max-width: 607px;
     margin-bottom: 22px;
@@ -17,14 +17,14 @@
   }
 }
 
-@media (max-width: 425px) {
+@media (max-width: 440px) {
   .lead__title {
     max-width: 385px;
     font-size: 50px;
   }
 }
 
-@media (max-width: 320px) {
+@media (max-width: 370px) {
   .lead__title {
     max-width: 288px;
     margin-bottom: 16px;

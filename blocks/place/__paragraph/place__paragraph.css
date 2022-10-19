@@ -17,7 +17,7 @@
   }
 }
 
-@media (max-width: 425px) {
+@media (max-width: 440px) {
   .place__paragraph {
     margin: 0 auto 25px;
     padding: 0 20px;
