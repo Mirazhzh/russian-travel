@@ -32,7 +32,7 @@
   }
 }
 
-@media (max-width: 560px) {
+@media (max-width: 600px) {
   .place {
     max-width: 504px;
     grid-template-columns: 250px auto;
@@ -40,7 +40,7 @@
   }
 }
 
-@media (max-width: 440px) {
+@media (max-width: 500px) {
   .place {
     max-width: 100%;
     display: block;
