@@ -1,33 +1,16 @@
 .photo-grid {
-  max-width: 1184px;
-  margin: 0;
-  padding: 0 48px 92px;
-}
-
-@media (max-width: 1024px) {
-  .photo-grid {
-    max-width: 928px;
-  }
+  margin: 0 auto;
+  padding: 0 0 92px;
 }
 
 @media (max-width: 768px) {
   .photo-grid {
-    max-width: 720px;
-    padding: 0 24px 88px;
+    padding-bottom: 88px;
   }
 }
 
 @media (max-width: 425px) {
   .photo-grid {
-    max-width: 385px;
-    padding: 0 20px 64px;
-  }
-}
-
-@media (max-width: 320px) {
-  .photo-grid {
-    max-width: 288px;
-    padding-left: 16px;
-    padding-right: 16px;
+    padding-bottom: 64px;
   }
 }
